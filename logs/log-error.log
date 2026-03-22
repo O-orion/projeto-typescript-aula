@@ -892,3 +892,13 @@
 {"level":"error","message":"jwt must be provided - /api/refresh - ::1 "}
 {"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::1 "}
 {"level":"error","message":"Credências Inválidas - /api/login - ::1 "}
+{"level":"error","message":"schema.parseAsync is not a function - /api/test-error - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/pesquisador - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Pesquisador não encontrado - /api/pesquisador/478ae217-4a57-4340-a194-500c8a17835b - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Pesquisador não encontrado - /api/pesquisador/478ae217-4a57-4340-a194-500c8a17835b - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Pesquisador não encontrado - /api/pesquisador/478ae217-4a57-4340-a194-500c8a17835b - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Credênciais Inválidas - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Credênciais Inválidas - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Token inválido! - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Token inválido! - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Token inválido para logout - /api/logout - ::ffff:127.0.0.1 "}

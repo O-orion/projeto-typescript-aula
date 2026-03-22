@@ -32,7 +32,6 @@ export default class AuthController {
 
         const tokens = await this.refreshService.refresh(refreshToken, userAgent, ip);
         res.status(200).json({ tokens })
-
     }
 
     async logout(req: Request, res: Response) {
@@ -41,4 +40,9 @@ export default class AuthController {
         res.status(200).json({ message: "Success" })
     }
 
+    async logoutAll(req: Request, res: Response) {
+        const { userId } = req.body;
+        await this.logoutService.logoutAll(userId);
+        res.status(200).json({ message: "Success" })
+    }
 }

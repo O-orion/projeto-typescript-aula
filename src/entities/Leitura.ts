@@ -12,7 +12,7 @@ export default class Leitura {
     @Column({ type: "float", nullable: false })
     temperatura!: number;
 
-    @Column({ type: "timestamp", nullable: false })
+    @Column({ nullable: false })
     dataHora!: Date;
 
     @ManyToOne(() => Sensor, (sensor) => sensor.leituras)

@@ -16,6 +16,7 @@ const authRouter = Router()
 
 authRouter.post("/login", asyncHandler(authController.login.bind(authController)));
 authRouter.post('/refresh', (req: Request, res: Response) => authController.refreshToken(req, res));
+authRouter.post('/logout/all', (req: Request, res: Response) => authController.logoutAll(req, res))
 authRouter.post('/logout', (req: Request, res: Response) => authController.logout(req, res))
 
 export default authRouter;

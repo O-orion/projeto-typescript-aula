@@ -36,6 +36,6 @@ export default class PesquisadorController {
     public async delete(req: Request, res: Response) {
         const { id } = req.params;
         await this.pesquisadorService.delete(id as string);
-        res.status(204).json({ status: "Pesquisador deletado" });
+        res.status(204).end();
     }
 }

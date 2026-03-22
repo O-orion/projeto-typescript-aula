@@ -56,7 +56,7 @@ class SensorService {
         const sensor = await this.sensorRepository.findOneBy({ id });
 
         if (!sensor) {
-            throw new AppError(404, "Sensor não encontrado");
+            throw new AppError(404, "Sensor não encontrado!");
         }
 
         await this.sensorRepository.remove(sensor);

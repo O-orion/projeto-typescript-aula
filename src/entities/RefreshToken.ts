@@ -22,7 +22,7 @@ export default class RefreshToken {
     @Column({ type: "varchar", nullable: true, length: 255 })
     tokenhash: string;
 
-    @Column({  type: 'timestamp', nullable: true })
+    @Column({ nullable: true })
     expireIn: Date;
 
     @Column({ type: "boolean",  default: true })

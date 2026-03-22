@@ -13,7 +13,7 @@ class AreaService {
         id = id.trim()
         const area = await this.areaRepository.findOne({ where: { id }, relations: ['sensores'] });
         if (!area) {
-            throw new AppError(404, "Área não encontrada");
+            throw new AppError(404, "Área não encontrada!");
         }
         return area;
     }
@@ -42,9 +42,8 @@ class AreaService {
     async contarSensorPorArea(id: string) {
         id = id.trim()
         const area = await this.areaRepository.findOne({ where: { id }, relations: ['sensores'] });
-        console.log(area)
         if (!area) {
-            throw new AppError(404, "Área não encontrada");
+            throw new AppError(404, "Área não encontrada!");
         }
 
         const ativos = area.sensores.filter(s => s.status == 'Ativo').length;
@@ -67,7 +66,7 @@ class AreaService {
         });
 
         if (!area) {
-            throw new AppError(404, "Área não encontrada");
+            throw new AppError(404, "Área não encontrada!");
         }
 
         const todasAsLeituras = area.sensores.flatMap(sensor => sensor.leituras);
@@ -79,7 +78,7 @@ class AreaService {
         const areaExiste = await this.areaRepository.findOneBy({ id });
 
         if (!areaExiste) {
-            throw new AppError(404, "Área não encontrada");
+            throw new AppError(404, "Área não encontrada!");
         }
 
         const areaAtualizada = this.areaRepository.merge(areaExiste, data);
@@ -91,7 +90,7 @@ class AreaService {
         const area = await this.areaRepository.findOneBy({ id });
 
         if (!area) {
-            throw new AppError(404, "Área não encontrada");
+            throw new AppError(404, "Área não encontrada!");
         }
 
         await this.areaRepository.remove(area);

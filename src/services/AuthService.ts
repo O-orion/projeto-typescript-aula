@@ -21,7 +21,7 @@ export default class AuthService {
         });
 
         if(!pesquisador) {
-            throw new AppError(401, "Credências Inválidas")
+            throw new AppError(401, "Credênciais Inválidas")
         }
 
         // Se a senha que o usuário informou no login é igual a senha que está salva no bd

@@ -1,17 +1,16 @@
-import { Router } from "express";
-import sensorRouter from "./sensorRoutes.js";
-import pesquisadorRoutes from "./pesquisadorRoutes.js";
-import authRouter from "./authRoutes.js";
-import leituraRoutes from "./leituraRouter.js";
-import areaRoutes from "./areaRouter.js";
+import { Router } from 'express'
+import areaRoutes from './areaRouter'
+import authRouter from './authRoutes'
+import leituraRoutes from './leituraRouter'
+import pesquisadorRoutes from './pesquisadorRoutes'
+import sensorRouter from './sensorRoutes'
 
+const indexRouter = Router()
 
-const indexRouter = Router();
-
-indexRouter.use(pesquisadorRoutes);
+indexRouter.use(pesquisadorRoutes)
 indexRouter.use(authRouter)
-indexRouter.use(sensorRouter);
+indexRouter.use(sensorRouter)
 indexRouter.use(areaRoutes)
 indexRouter.use(leituraRoutes)
 
-export default indexRouter;
+export default indexRouter

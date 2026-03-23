@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
     "module": "nodenext",
+    "moduleResolution": "nodenext",
     "target": "esnext",
-    "outDir": "./dist",         
-    "rootDir": "./src",         
+    "outDir": "./dist",
+    "rootDir": "./src",
     "types": [],
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
@@ -14,11 +15,11 @@
     "noUncheckedIndexedAccess": true,
     "exactOptionalPropertyTypes": true,
     "strict": true,
-    "verbatimModuleSyntax": true,
     "isolatedModules": true,
     "moduleDetection": "force",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "esModuleInterop": true
   },
-  "include": ["src/**/*"],      
+  "include": ["src/**/*"],
   "exclude": ["node_modules", "dist"]
 }

@@ -892,3 +892,79 @@
 {"level":"error","message":"jwt must be provided - /api/refresh - ::1 "}
 {"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::1 "}
 {"level":"error","message":"Credências Inválidas - /api/login - ::1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Credências Inválidas - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::ffff:127.0.0.1 "}
+{"level":"error","message":"E-mail ou Matrícula já cadastrados - /api/register - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Cannot read properties of undefined (reading 'access') - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"No metadata for \"Pesquisador\" was found. - /api/login - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/761684fa-fb10-4ed0-893b-ddcefd5133d2 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: invalid token - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Token inválido para logout - /api/logout - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Token inválido para logout - /api/logout - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/c6934bce-e809-4b29-aa96-17ddd7ffc39b - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: invalid token - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Token inválido para logout - /api/logout - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Token inválido para logout - /api/logout - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/3f73da78-4aff-4020-9ac5-f89ed103033a - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: invalid token - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Token inválido para logout - /api/logout - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: jwt must be provided - /api/refresh - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Token inválido para logout - /api/logout - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/79b949a8-6fc7-4976-b238-855c171066b5 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: invalid input syntax for type uuid: \"undefined\" - /api/area/undefined - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: invalid input syntax for type uuid: \"undefined\" - /api/area/undefined - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/00000000-0000-0000-0000-000000000000 - ::ffff:127.0.0.1 "}
+{"level":"error","message":"Aqui o erro: Área não encontrada - /api/area/e826c5be-5503-469f-bca1-c5b6970b55db - ::ffff:127.0.0.1 "}
